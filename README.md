@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @mimi-netizen
-- 👀 I’m interested in Web development, App development,Software engineering, AI and Machine learning.
-- 🌱 I’m currently learning Web development, Software development and App development.
+- 👋 Hi, I’m Celyne Kydd
+- 👀 I’m interested in Web & App development,Software engineering, AI & ML and Web3 & Blockchain.
 - 💞️ I’m looking to collaborate on new projects and ideas.
 - 📫 You can find me on linkedIn https://www.linkedin.com/in/celyne-kydd-0b1972291
 - 😄 Pronouns: She/Her
