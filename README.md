@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Celyne Kydd
 - 👀 I’m interested in Web & App development,Software engineering, AI & ML and Web3 & Blockchain.
 - 💞️ I’m looking to collaborate on new projects and ideas.
-- 📫 You can find me on linkedIn https://www.linkedin.com/in/celyne-kydd-0b1972291
+- 📫 You can find me on linkedIn https://www.linkedin.com/in/celyne-kydd
 - 😄 Pronouns: She/Her
 
 <!---
