@@ -1,8 +1,38 @@
 ![MasterHead](https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif)
 
 # 💫 About Me:
-👯 I’m looking to collaborate on new projects and ideas.<br>🌱 I’m currently learning Linux, Python, Go, DevOps & Cloud Computing.<br><br>
-<img src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+def work_life_balance(task: str, mood: str = 'neutral') -> str:
+    """
+    A function to balance work and fun.
+    
+    Args:
+    - task (str): The task to execute.
+    - mood (str): Your current mood. Default is 'neutral'.
+
+    Returns:
+    - str: A fun yet professional message.
+    """
+    fun_emojis = {
+        'happy': '😄',
+        'neutral': '😐',
+        'sad': '😞'
+    }
+
+    professional_advice = {
+        'happy': "Great! But don't forget your responsibilities.",
+        'neutral': "Stay balanced, don't overwork or overplay.",
+        'sad': "Maybe take a short break and come back stronger."
+    }
+
+    if mood not in fun_emojis:
+        return "Invalid mood! Please choose between 'happy', 'neutral', or 'sad'."
+
+    return (f"Task to complete: {task} {fun_emojis[mood]}. "
+            f"Advice: {professional_advice[mood]}")
+
+# Example usage:
+message = work_life_balance("Complete Python project", "happy")
+print(message)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/celyne-kydd) 
